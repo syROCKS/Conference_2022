@@ -29,7 +29,7 @@ section {
   opacity: 1;
   height: 100vh;
   width: 100%;
-  overflow-y: hidden;
+  overflow-y: visible;
   background-color: #eff0f4;
   background-image: url(../files/Bloom_where_you_are_planted.-removebg.png);
   background-repeat: no-repeat;
@@ -74,6 +74,7 @@ section.hide{
   background-color: #172b97;
   background-image: none;
   color: white;
+  overflow-y: hidden;
 }
 #home .slide-wrapper {
   background-color: #194dbe;
