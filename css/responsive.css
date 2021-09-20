@@ -9,6 +9,9 @@
   .section{
     overflow-y: visible;
   }
+  .contact-wrapper{
+    overflow-y: scroll;
+  }
   .section-inner-row {
     padding: 0 2%;
   }
