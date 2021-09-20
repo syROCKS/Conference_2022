@@ -22,7 +22,6 @@ body {
   width: 100%;
   color: #666;
   background-color: #172b97;
-  /* background-color: rgb(29, 29, 29); */
   overflow-x: hidden;
   overflow-y: hidden;
 }
@@ -78,7 +77,6 @@ section.hide{
 }
 #home .slide-wrapper {
   background-color: #194dbe;
-  object-fit: fill;
 }
 #home-content {
   z-index: 5;

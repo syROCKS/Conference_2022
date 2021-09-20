@@ -81,7 +81,7 @@ a:hover{
   box-shadow: var(--inner-shadow-d);
 }
 .mainGate{
-  max-width: 100%;
+  max-width: 700px;
   height: auto;
   margin: 0 2% 2%;
 }
